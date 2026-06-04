@@ -1,0 +1,486 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\users\\pc_15\\source\\repos\\appplanmejora\\appplanmejora\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\vista\\programa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\programa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\vista\\programa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\programa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\detalleplanresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\detalleplanresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\citacionescomite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\citacionescomite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\centroformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\centroformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\asignacioninstructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\asignacioninstructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\modelo\\actividadesplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\actividadesplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\datos\\usuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\usuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\logica\\programal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\programal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\datos\\programad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\programad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\logica\\usuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\usuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\appplanmejora\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Rol.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Rol.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Rol.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:48:07.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:47:07.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programa.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Programa.aspx.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Programa.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Programa.aspx.cs",
+              "RelativeToolTip": "AppPlanMejora\\Vista\\Programa.aspx.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:54:55.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Programa.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Programa.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Programa.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Programa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:49:46.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Programa.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Programa.aspx",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Programa.aspx",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Programa.aspx",
+              "RelativeToolTip": "AppPlanMejora\\Vista\\Programa.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-06-03T21:54:24.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResultadoAprendizaje.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:50:58.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Region.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Region.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Region.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:48:35.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlanMejoramiento.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:51:09.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Instructor.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Instructor.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Instructor.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Instructor.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Instructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:50:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ficha.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Ficha.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Ficha.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Ficha.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Ficha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:49:54.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Login.aspx",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Login.aspx",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Login.aspx",
+              "RelativeToolTip": "AppPlanMejora\\Vista\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-06-03T21:39:53.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Vista\\Login.aspx.cs",
+              "RelativeToolTip": "AppPlanMejora\\Vista\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:40:08.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Evidencias.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Evidencias.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Evidencias.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Evidencias.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Evidencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:51:48.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Evaluacion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Evaluacion.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Evaluacion.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Evaluacion.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Evaluacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:52:05.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DetallePlanResultado.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:54:54.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Competencia.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Competencia.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Competencia.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Competencia.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Competencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:50:31.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Ciudad.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Ciudad.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Ciudad.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Ciudad.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Ciudad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:49:04.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CitacionesComite.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\CitacionesComite.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\CitacionesComite.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\CitacionesComite.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\CitacionesComite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:52:36.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CentroPrograma.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\CentroPrograma.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\CentroPrograma.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\CentroPrograma.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\CentroPrograma.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:54:33.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CentroFormacion.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\CentroFormacion.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\CentroFormacion.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\CentroFormacion.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\CentroFormacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:49:22.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AsignacionInstructorFicha.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:54:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Aprendiz.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Aprendiz.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Aprendiz.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\Aprendiz.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\Aprendiz.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:50:20.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ActividadesPlan.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\ActividadesPlan.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\ActividadesPlan.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Modelo\\ActividadesPlan.cs",
+              "RelativeToolTip": "AppPlanMejora\\Modelo\\ActividadesPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:51:38.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ProgramaD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Datos\\ProgramaD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\ProgramaD.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Datos\\ProgramaD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\ProgramaD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:51:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProgramaL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Logica\\ProgramaL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\ProgramaL.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Logica\\ProgramaL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\ProgramaL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:52:58.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UsuarioL.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Logica\\UsuarioL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\UsuarioL.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Logica\\UsuarioL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\UsuarioL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:37:00.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UsuarioD.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Datos\\UsuarioD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\UsuarioD.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Datos\\UsuarioD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\UsuarioD.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:33:55.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Datos\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Datos\\ConexionDB.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T19:56:05.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Web.config",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Web.config",
+              "ToolTip": "C:\\Users\\PC_15\\source\\repos\\AppPlanMejora\\AppPlanMejora\\Web.config",
+              "RelativeToolTip": "AppPlanMejora\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-06-03T19:44:38.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
