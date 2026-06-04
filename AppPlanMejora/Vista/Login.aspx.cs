@@ -25,21 +25,19 @@ namespace AppPlanMejora.Vista
                 string correo = txtCorreo.Text.Trim();
                 string contrasena = txtContrasena.Text.Trim();
 
-                // Llamada directa a la capa lógica
                 Usuario usuarioValidado = oUsuarioLogica.AutenticarUsuario(correo, contrasena);
 
                 if (usuarioValidado != null)
                 {
-                    // Asignación de variables de sesión para el manejo de roles
+
                     Session["UsuarioId"] = usuarioValidado.Id;
                     Session["NombreCompleto"] = usuarioValidado.Nombres + " " + usuarioValidado.Apellidos;
                     Session["RolId"] = usuarioValidado.IdRol;
 
-                    // Redirección condicionada por el rol en el sistema
                     switch (usuarioValidado.IdRol)
                     {
-                        case 1: // Administrador de Centro
-                            Response.Redirect("Modulos/Admin/Dashboard.aspx");
+                        case 1: // Administrador
+                            Response.Redirect("Programa.aspx");
                             break;
                         case 2: // Instructor
                             Response.Redirect("Modulos/Instructor/Planes.aspx");
@@ -59,12 +57,10 @@ namespace AppPlanMejora.Vista
             }
             catch (ArgumentException argEx)
             {
-                // Muestra los errores de validación de negocio controlados
                 lblMensajeError.Text = argEx.Message;
             }
             catch (Exception ex)
             {
-                // Muestra errores técnicos generales capturados
                 lblMensajeError.Text = "Ocurrió un inconveniente técnico: " + ex.Message;
             }
         }

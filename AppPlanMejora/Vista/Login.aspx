@@ -15,7 +15,7 @@
             margin-top: 100px;
         }
         .btn-sena {
-            background-color: #39A900; /* Verde institucional SENA */
+            background-color: #39A900;
             color: white;
         }
         .btn-sena:hover {
@@ -29,7 +29,8 @@
         <div class="card login-container shadow-sm p-4 bg-white rounded">
             <div class="text-center mb-4">
                 <h4 class="fw-bold text-dark">Planes de Mejoramiento</h4>
-                <p class="text-muted small">Ingresa tus credenciales institucionales</p>
+                <p class="text-muted small"
+                    >Ingresa tus credenciales institucionales</p>
             </div>
 
             <form id="form1" runat="server">

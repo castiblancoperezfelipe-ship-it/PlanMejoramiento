@@ -13,7 +13,6 @@ namespace AppPlanMejora.Logica
 
         public Usuario AutenticarUsuario(string correo, string contrasena)
         {
-            // Validaciones de negocio obligatorias
             if (string.IsNullOrWhiteSpace(correo))
                 throw new ArgumentException("El correo electrónico es un campo requerido.");
 
@@ -23,7 +22,6 @@ namespace AppPlanMejora.Logica
             if (!correo.Contains("@"))
                 throw new ArgumentException("El formato del correo electrónico no es válido.");
 
-            // Invoca la capa de datos si las validaciones son exitosas
             return oUsuarioDatos.ValidarAcceso(correo, contrasena);
         }
     }
