@@ -73,12 +73,25 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Datos\ActividadesPlanD.cs" />
+    <Compile Include="Datos\AprendizD.cs" />
+    <Compile Include="Datos\CompetenciaD.cs" />
     <Compile Include="Datos\ConexionDB.cs" />
+    <Compile Include="Datos\DetallePlanResultadosD.cs" />
+    <Compile Include="Datos\EvaluacionesD.cs" />
     <Compile Include="Datos\FichaD.cs" />
+    <Compile Include="Datos\InstructorD.cs" />
+    <Compile Include="Datos\PlanMejoramientoD.cs" />
     <Compile Include="Datos\ProgramaD.cs" />
+    <Compile Include="Datos\ResultadoAprendizajeD.cs" />
     <Compile Include="Datos\UsuarioD.cs" />
+    <Compile Include="Logica\AprendizL.cs" />
+    <Compile Include="Logica\CompetenciaL.cs" />
+    <Compile Include="Logica\EvaluacionesL.cs" />
     <Compile Include="Logica\FichaL.cs" />
+    <Compile Include="Logica\PlanMejoramientoL.cs" />
     <Compile Include="Logica\ProgramaL.cs" />
+    <Compile Include="Logica\ResultadoAprendizajeL.cs" />
     <Compile Include="Logica\UsuarioL.cs" />
     <Compile Include="Modelo\ActividadesPlan.cs" />
     <Compile Include="Modelo\Aprendiz.cs" />
@@ -121,9 +134,17 @@
     <Compile Include="Vista\Programa.aspx.designer.cs">
       <DependentUpon>Programa.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Vista\Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Vista\Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <Content Include="Vista\Site.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

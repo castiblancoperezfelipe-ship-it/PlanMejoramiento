@@ -1,138 +1,198 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\samuel\\PlanMejoramiento\\",
+  "WorkspaceRootPath": "C:\\PlanMejora\\PlanMejoramiento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\samuel\\planmejoramiento\\appplanmejora\\datos\\programad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\programad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\logica\\evaluacionesl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\evaluacionesl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\logica\\fichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\fichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\logica\\aprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\aprendizl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\logica\\planmejoramientol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\planmejoramientol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\logica\\resultadoaprendizajel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\resultadoaprendizajel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\logica\\competencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\competencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\vista\\ficha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\ficha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\evaluacionesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\evaluacionesd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\vista\\ficha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\ficha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\detalleplanresultadosd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\detalleplanresultadosd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\datos\\fichad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\fichad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\instructord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\instructord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\aprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\aprendizd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\vista\\programa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\programa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\planmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\planmejoramientod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\actividadespland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\actividadespland.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\vista\\programa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\programa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\resultadoaprendizajed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\resultadoaprendizajed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\datos\\usuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\usuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|c:\\planmejora\\planmejoramiento\\appplanmejora\\datos\\competenciad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\competenciad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\logica\\usuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\usuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\detalleplanresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\detalleplanresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\competencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\datos\\fichad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\fichad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\datos\\programad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\programad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\logica\\programal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\programal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\programa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\programa.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\logica\\fichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\fichal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\ficha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\ficha.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\ficha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\ficha.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\vista\\programa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\vista\\programa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\datos\\usuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\datos\\usuariod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\logica\\usuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\usuariol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\planmejoramiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\resultadoaprendizaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\instructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\ficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\evidencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\detalleplanresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\detalleplanresultado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\ciudad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\citacionescomite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\citacionescomite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\citacionescomite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\centroprograma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\centroformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\centroformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\centroformacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\asignacioninstructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\asignacioninstructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\asignacioninstructorficha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\aprendiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\modelo\\actividadesplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\PlanMejora\\PlanMejoramiento\\appplanmejora\\modelo\\actividadesplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\modelo\\actividadesplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|C:\\samuel\\PlanMejoramiento\\appplanmejora\\logica\\programal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AEDD69C-7473-4DC5-A2F4-0F5872B8DD81}|AppPlanMejora\\AppPlanMejora.csproj|solutionrelative:appplanmejora\\logica\\programal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -142,15 +202,216 @@
       "DocumentGroups": [
         {
           "DockedWidth": 243,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
+              "Title": "EvaluacionesL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\EvaluacionesL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\EvaluacionesL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\EvaluacionesL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\EvaluacionesL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T01:00:14.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AprendizL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\AprendizL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\AprendizL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\AprendizL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\AprendizL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:59:23.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlanMejoramientoL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\PlanMejoramientoL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\PlanMejoramientoL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\PlanMejoramientoL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\PlanMejoramientoL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:57:40.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResultadoAprendizajeL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\ResultadoAprendizajeL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\ResultadoAprendizajeL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\ResultadoAprendizajeL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\ResultadoAprendizajeL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:54:40.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompetenciaL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\CompetenciaL.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\CompetenciaL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\CompetenciaL.cs",
+              "RelativeToolTip": "AppPlanMejora\\Logica\\CompetenciaL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:52:25.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EvaluacionesD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\EvaluacionesD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\EvaluacionesD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\EvaluacionesD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\EvaluacionesD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:19:21.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetallePlanResultadosD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\DetallePlanResultadosD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\DetallePlanResultadosD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\DetallePlanResultadosD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\DetallePlanResultadosD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:18:00.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstructorD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\InstructorD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\InstructorD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\InstructorD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\InstructorD.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:16:13.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AprendizD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\AprendizD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\AprendizD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\AprendizD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\AprendizD.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:14:40.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActividadesPlanD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ActividadesPlanD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\ActividadesPlanD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ActividadesPlanD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\ActividadesPlanD.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-09T00:02:14.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlanMejoramientoD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\PlanMejoramientoD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\PlanMejoramientoD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\PlanMejoramientoD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\PlanMejoramientoD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:58:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResultadoAprendizajeD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ResultadoAprendizajeD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\ResultadoAprendizajeD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ResultadoAprendizajeD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\ResultadoAprendizajeD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:50:56.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CompetenciaD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\CompetenciaD.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\CompetenciaD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\CompetenciaD.cs",
+              "RelativeToolTip": "AppPlanMejora\\Datos\\CompetenciaD.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T20:51:27.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Site.Master.cs",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Site.Master.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Site.Master.cs",
+              "RelativeToolTip": "AppPlanMejora\\Vista\\Site.Master.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T17:37:50.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Site.Master",
+              "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Site.Master",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Site.Master",
+              "RelativeToolTip": "AppPlanMejora\\Vista\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-06-08T17:36:07.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Instructor.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Instructor.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Instructor.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Instructor.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Instructor.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Instructor.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Instructor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -158,11 +419,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 37,
               "Title": "Ficha.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ficha.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ficha.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Ficha.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ficha.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ficha.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Ficha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -170,35 +431,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx",
               "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Login.aspx",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx",
               "RelativeToolTip": "AppPlanMejora\\Vista\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2026-06-03T21:39:53.394Z"
+              "WhenOpened": "2026-06-03T21:39:53.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
               "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Login.aspx.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Login.aspx.cs",
               "RelativeToolTip": "AppPlanMejora\\Vista\\Login.aspx.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowCIAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswC8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T21:40:08.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 33,
               "Title": "ResultadoAprendizaje.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\ResultadoAprendizaje.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -206,11 +468,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 28,
               "Title": "ConexionDB.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\ConexionDB.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ConexionDB.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\ConexionDB.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\ConexionDB.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ConexionDB.cs",
               "RelativeToolTip": "AppPlanMejora\\Datos\\ConexionDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -218,24 +480,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Web.config",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Web.config",
               "RelativeDocumentMoniker": "AppPlanMejora\\Web.config",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Web.config",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Web.config",
               "RelativeToolTip": "AppPlanMejora\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-06-03T19:44:38.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "Ficha.aspx",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx",
               "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Ficha.aspx",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx",
               "RelativeToolTip": "AppPlanMejora\\Vista\\Ficha.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -243,11 +505,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 26,
               "Title": "Ficha.aspx.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Ficha.aspx.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Ficha.aspx.cs",
               "RelativeToolTip": "AppPlanMejora\\Vista\\Ficha.aspx.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -255,11 +517,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 24,
               "Title": "FichaL.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Logica\\FichaL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\FichaL.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\FichaL.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Logica\\FichaL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\FichaL.cs",
               "RelativeToolTip": "AppPlanMejora\\Logica\\FichaL.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,36 +529,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "FichaD.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\FichaD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\FichaD.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\FichaD.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\FichaD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\FichaD.cs",
               "RelativeToolTip": "AppPlanMejora\\Datos\\FichaD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-04T21:07:36.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
               "Title": "ProgramaD.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\ProgramaD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ProgramaD.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\ProgramaD.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\ProgramaD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\ProgramaD.cs",
               "RelativeToolTip": "AppPlanMejora\\Datos\\ProgramaD.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAgwDsAAABQAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T21:51:33.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-03T21:51:33.638Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 27,
               "Title": "Programa.aspx.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Programa.aspx.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx.cs",
               "RelativeToolTip": "AppPlanMejora\\Vista\\Programa.aspx.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwDkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -304,11 +565,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 32,
               "Title": "PlanMejoramiento.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\PlanMejoramiento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -316,11 +577,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 35,
               "Title": "Region.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Region.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Region.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Region.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Region.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Region.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Region.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -328,11 +589,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "Programa.aspx",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx",
               "RelativeDocumentMoniker": "AppPlanMejora\\Vista\\Programa.aspx",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Vista\\Programa.aspx",
               "RelativeToolTip": "AppPlanMejora\\Vista\\Programa.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
@@ -340,11 +601,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 30,
               "Title": "UsuarioL.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Logica\\UsuarioL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\UsuarioL.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\UsuarioL.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Logica\\UsuarioL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\UsuarioL.cs",
               "RelativeToolTip": "AppPlanMejora\\Logica\\UsuarioL.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -352,11 +613,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 29,
               "Title": "UsuarioD.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\UsuarioD.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\UsuarioD.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Datos\\UsuarioD.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Datos\\UsuarioD.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Datos\\UsuarioD.cs",
               "RelativeToolTip": "AppPlanMejora\\Datos\\UsuarioD.cs",
               "ViewState": "AgIAACsAAAAAAAAAAAAgwAsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -364,11 +625,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Programa.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Programa.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Programa.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Programa.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Programa.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Programa.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Programa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -376,11 +637,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 31,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Usuario.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Usuario.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Usuario.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Usuario.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Usuario.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -388,11 +649,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 34,
               "Title": "Rol.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Rol.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Rol.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Rol.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Rol.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Rol.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Rol.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -400,11 +661,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "Evidencias.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evidencias.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evidencias.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Evidencias.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evidencias.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evidencias.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Evidencias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -412,11 +673,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 39,
               "Title": "Evaluacion.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evaluacion.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evaluacion.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Evaluacion.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evaluacion.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Evaluacion.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Evaluacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -424,11 +685,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 40,
               "Title": "DetallePlanResultado.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\DetallePlanResultado.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -436,11 +697,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 14,
               "Title": "Competencia.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Competencia.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Competencia.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Competencia.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Competencia.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Competencia.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Competencia.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -448,11 +709,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 41,
               "Title": "Ciudad.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ciudad.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ciudad.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Ciudad.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ciudad.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Ciudad.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Ciudad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -460,11 +721,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 42,
               "Title": "CitacionesComite.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CitacionesComite.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CitacionesComite.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\CitacionesComite.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CitacionesComite.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CitacionesComite.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\CitacionesComite.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -472,11 +733,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 43,
               "Title": "CentroPrograma.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroPrograma.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroPrograma.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\CentroPrograma.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroPrograma.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroPrograma.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\CentroPrograma.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -484,11 +745,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 44,
               "Title": "CentroFormacion.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroFormacion.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroFormacion.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\CentroFormacion.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroFormacion.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\CentroFormacion.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\CentroFormacion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -496,11 +757,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 45,
               "Title": "AsignacionInstructorFicha.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\AsignacionInstructorFicha.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -508,11 +769,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 46,
               "Title": "Aprendiz.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Aprendiz.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Aprendiz.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\Aprendiz.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Aprendiz.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\Aprendiz.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\Aprendiz.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -520,11 +781,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 47,
               "Title": "ActividadesPlan.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ActividadesPlan.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ActividadesPlan.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Modelo\\ActividadesPlan.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ActividadesPlan.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Modelo\\ActividadesPlan.cs",
               "RelativeToolTip": "AppPlanMejora\\Modelo\\ActividadesPlan.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -532,13 +793,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 17,
               "Title": "ProgramaL.cs",
-              "DocumentMoniker": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Logica\\ProgramaL.cs",
+              "DocumentMoniker": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\ProgramaL.cs",
               "RelativeDocumentMoniker": "AppPlanMejora\\Logica\\ProgramaL.cs",
-              "ToolTip": "C:\\samuel\\PlanMejoramiento\\AppPlanMejora\\Logica\\ProgramaL.cs",
+              "ToolTip": "C:\\PlanMejora\\PlanMejoramiento\\AppPlanMejora\\Logica\\ProgramaL.cs",
               "RelativeToolTip": "AppPlanMejora\\Logica\\ProgramaL.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-03T21:52:58.559Z"
             }

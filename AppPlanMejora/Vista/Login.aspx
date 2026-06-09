@@ -17,7 +17,7 @@
         .btn-sena {
             background-color: #39A900;
             color: white;
-        }
+        } 
         .btn-sena:hover {
             background-color: #2e8600;
             color: white;
